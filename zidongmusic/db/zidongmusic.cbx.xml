@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="zidongmusic">
+		<CBX_INST_ENTRY INSTANCE_NAME="|zidongmusic|CNTSTEP:inst8|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_f5j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|zidongmusic|MUSIC_DATA:inst13|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_jn91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|zidongmusic|PLL1:inst17|altpll:altpll_component" CBX_FILE_NAME="PLL1_altpll.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|zidongmusic|SPK0:inst|CNT11B:inst|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_n7j.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

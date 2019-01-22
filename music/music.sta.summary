@@ -1,0 +1,89 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'inst13|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.632
+TNS   : -14.603
+
+Type  : Slow 1200mV 85C Model Setup 'SPK0:inst2|CNT11B:inst|lpm_counter:lpm_counter_component|cntr_n7j:auto_generated|counter_reg_bit[0]'
+Slack : -0.368
+TNS   : -0.368
+
+Type  : Slow 1200mV 85C Model Hold 'inst13|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.033
+TNS   : -0.033
+
+Type  : Slow 1200mV 85C Model Hold 'SPK0:inst2|CNT11B:inst|lpm_counter:lpm_counter_component|cntr_n7j:auto_generated|counter_reg_bit[0]'
+Slack : 0.015
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'SPK0:inst2|CNT11B:inst|lpm_counter:lpm_counter_component|cntr_n7j:auto_generated|counter_reg_bit[0]'
+Slack : -1.487
+TNS   : -1.487
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : 24.929
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'inst13|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 499.720
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'inst13|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -1.235
+TNS   : -10.443
+
+Type  : Slow 1200mV 0C Model Setup 'SPK0:inst2|CNT11B:inst|lpm_counter:lpm_counter_component|cntr_n7j:auto_generated|counter_reg_bit[0]'
+Slack : -0.218
+TNS   : -0.218
+
+Type  : Slow 1200mV 0C Model Hold 'inst13|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.167
+TNS   : -0.167
+
+Type  : Slow 1200mV 0C Model Hold 'SPK0:inst2|CNT11B:inst|lpm_counter:lpm_counter_component|cntr_n7j:auto_generated|counter_reg_bit[0]'
+Slack : 0.019
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'SPK0:inst2|CNT11B:inst|lpm_counter:lpm_counter_component|cntr_n7j:auto_generated|counter_reg_bit[0]'
+Slack : -1.487
+TNS   : -1.504
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : 24.917
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'inst13|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 499.718
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'inst13|altpll_component|auto_generated|pll1|clk[0]'
+Slack : -0.591
+TNS   : -4.877
+
+Type  : Fast 1200mV 0C Model Setup 'SPK0:inst2|CNT11B:inst|lpm_counter:lpm_counter_component|cntr_n7j:auto_generated|counter_reg_bit[0]'
+Slack : 0.432
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'SPK0:inst2|CNT11B:inst|lpm_counter:lpm_counter_component|cntr_n7j:auto_generated|counter_reg_bit[0]'
+Slack : 0.014
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'inst13|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.027
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'SPK0:inst2|CNT11B:inst|lpm_counter:lpm_counter_component|cntr_n7j:auto_generated|counter_reg_bit[0]'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : 24.597
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'inst13|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 499.734
+TNS   : 0.000
+
+------------------------------------------------------------

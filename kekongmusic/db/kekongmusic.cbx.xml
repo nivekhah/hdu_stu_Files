@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="kekongmusic">
+		<CBX_INST_ENTRY INSTANCE_NAME="|kekongmusic|CNTSTER:inst9|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_f5j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kekongmusic|PRAM:inst8|COUNT8B:inst7|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_5ri.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kekongmusic|PRAM:inst8|RAM:inst8|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_0tg1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kekongmusic|MUSIC2:inst13|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_e2b1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kekongmusic|MUSIC_DATA:inst10|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_jn91.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kekongmusic|PLL:inst3|altpll:altpll_component" CBX_FILE_NAME="PLL_altpll.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|kekongmusic|SPK0:inst2|CNT11B:inst|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_n7j.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

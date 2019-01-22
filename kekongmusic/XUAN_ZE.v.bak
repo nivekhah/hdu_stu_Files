@@ -1,0 +1,2 @@
+module XUAN_ZE(KIN,KOUT)
+	input [1:0] KIN;
